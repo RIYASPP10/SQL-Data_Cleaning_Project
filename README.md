@@ -32,6 +32,7 @@ Ensured there were no empty strings in critical columns.
 
 Dropped the row_num column, which was used for duplicate detection but is no longer needed.
 
+
 SQL Queries Used
 
 The project includes SQL queries for:
@@ -47,6 +48,7 @@ Handling missing values by either filling them with reference data or removing u
 Formatting date fields to ensure consistency.
 
 Dropping unnecessary columns to streamline the dataset.
+
 
 Technologies Used
 
