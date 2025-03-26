@@ -1,6 +1,6 @@
 # SQL-Data_Cleaning_Project
 
-Project Overview
+🔍 Project Overview
 
 This project focuses on data cleaning using MySQL to preprocess a dataset containing layoffs data. The dataset includes information about company layoffs, industries, locations, and other relevant details. The goal is to ensure data consistency, accuracy, and usability by performing essential cleaning tasks.
 
