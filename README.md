@@ -33,7 +33,7 @@ Ensured there were no empty strings in critical columns.
 Dropped the row_num column, which was used for duplicate detection but is no longer needed.
 
 
-SQL Queries Used
+ 📌 SQL Queries Used
 
 The project includes SQL queries for:
 
@@ -50,7 +50,7 @@ Formatting date fields to ensure consistency.
 Dropping unnecessary columns to streamline the dataset.
 
 
-Technologies Used
+📌 Technologies Used
 
 MySQL for database management and data cleaning.
 
